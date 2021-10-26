@@ -5,6 +5,7 @@ Nice to meet you! I'm Yolanda (she/her), a fourth year at the University of Cali
 
 ## Current projects
 - **Analyzing data** on Berkeley graduate students
+- **Creating a model** for mutations over time based on HMMs
 - **Publishing a textbook** for @cs10, an introductory CS course for first-time programmers
 
 ## Say hello!
