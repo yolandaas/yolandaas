@@ -4,9 +4,10 @@
 Nice to meet you! I'm Yolanda (she/her), a fourth year at the University of California, Berkeley working towards a B.A. in Genetics and a B.A. in Data Science. I am passionate about computational biology, data-driven policy change, and improving computer/data science education.
 
 ## Current projects
-- **Analyzing data** on Berkeley graduate students
 - **Creating a model** for mutations over time based on HMMs
 - **Publishing a textbook** for @cs10, an introductory CS course for first-time programmers
+- **Building a National Parks tracker** with my own artwork
+- Learning about transformers and attention
 
 ## Say hello!
 
