@@ -13,7 +13,7 @@ Nice to meet you! I'm Yolanda (she/her), a fourth year at the University of Cali
 
 I'd love to chat! You can reach me or get to know me further at any of the links below.
 
-[<img align="left" alt="Website" width="24px" src="https://image.flaticon.com/icons/png/512/2807/2807258.png" />](https://yolandashen.me)
+[<img align="left" alt="Website" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/OOjs_UI_icon_userAvatar.svg" />](https://yolandashen.me)
 [<img align="left" alt="Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yashen@berkeley.edu)
 [<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yolanda-shen/)
 
