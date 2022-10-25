@@ -4,8 +4,8 @@
 Nice to meet you! I'm Yolanda (she/her), and I am a 2022 graduate from the University of California, Berkeley, with a B.A. in Genetics and a B.A. in Data Science. I am passionate about computational biology, data-driven policy change, and improving computer/data science education.
 
 ## Current projects
-- **Building a National Parks tracker** with my own artwork
-- Taking a course on GANs 
+- Creating a receipt-to-Excel/Sheets converter for uneven bill splitting
+- (on hold) **Building a National Parks tracker** with my own artwork
 
 ## Say hello!
 
