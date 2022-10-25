@@ -9,9 +9,8 @@ Nice to meet you! I'm Yolanda (she/her), and I am a 2022 graduate from the Unive
 
 ## 👋 Say hello!
 
-I'd love to chat! You can reach me below.
+I'd love to chat! For those of you connected with me, you can find me on LinkedIn. 
 
-[<img align="left" alt="Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yashen@berkeley.edu)
 
 
 <!--
@@ -28,6 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[<img align="left" alt="Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yashen@berkeley.edu)
 [<img align="left" alt="Website" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/OOjs_UI_icon_userAvatar.svg" />](https://yolandashen.me)
-[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yolanda-shen/)
+[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yolanda-s/)
 -->
